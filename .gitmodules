@@ -1,0 +1,3 @@
+[submodule "public/pages"]
+	path = public/pages
+	url = https://codeberg.org/heidi2/pages.git
