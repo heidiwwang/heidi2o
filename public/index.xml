@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>heidi2</title>
+      <link>https://heidi2.codeberg.page/</link>
+      <description>Last 10 notes on heidi2</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>accessibility_barrier</title>
+    <link>https://heidi2.codeberg.page/hr_data_model/accessibility_barrier</link>
+    <guid>https://heidi2.codeberg.page/hr_data_model/accessibility_barrier</guid>
+    <description><![CDATA[ Related Links accessibility_barrier accessibility_solution area_person workplace_accessibility_requirement Semantic Connections graph TD accessibility_barrier[&quot;accessibility_barrier&quot;]:::current-page-node area_person[&quot;area_person&quot;] accessibility_solution[&quot;accessibility_soluti... ]]></description>
+    <pubDate>Fri, 08 Aug 2025 02:39:31 GMT</pubDate>
+  </item><item>
+    <title>accessibility_solution</title>
+    <link>https://heidi2.codeberg.page/hr_data_model/accessibility_solution</link>
+    <guid>https://heidi2.codeberg.page/hr_data_model/accessibility_solution</guid>
+    <description><![CDATA[ Related Links accessibility_barrier accessibility_solution area_person Semantic Connections graph TD accessibility_solution[&quot;accessibility_solution&quot;]:::current-page-node area_person[&quot;area_person&quot;] accessibility_barrier[&quot;accessibility_barrier&quot;] accessibility_solution--&g... ]]></description>
+    <pubDate>Fri, 08 Aug 2025 02:39:31 GMT</pubDate>
+  </item><item>
+    <title>Address</title>
+    <link>https://heidi2.codeberg.page/hr_data_model/address</link>
+    <guid>https://heidi2.codeberg.page/hr_data_model/address</guid>
+    <description><![CDATA[ Related Links address area_external_data education_institution offsite_location organization person position Semantic Connections graph TD Address[&quot;Address&quot;]:::current-page-node area_external_data[&quot;area_external_data&quot;] education_institution[&quot;education_institution&quot;] offs... ]]></description>
+    <pubDate>Fri, 08 Aug 2025 02:39:31 GMT</pubDate>
+  </item><item>
+    <title>Advertising Campaign</title>
+    <link>https://heidi2.codeberg.page/hr_data_model/advertising_campaign</link>
+    <guid>https://heidi2.codeberg.page/hr_data_model/advertising_campaign</guid>
+    <description><![CDATA[ Related Links advertising_campaign area_staffing Semantic Connections graph TD Advertising_Campaign[&quot;Advertising Campaign&quot;]:::current-page-node area_staffing[&quot;area_staffing&quot;] Advertising_Campaign--&gt;|&quot; subClassOf &quot;|area_staffing . ]]></description>
+    <pubDate>Fri, 08 Aug 2025 02:39:31 GMT</pubDate>
+  </item><item>
+    <title>Applicant Evaluation</title>
+    <link>https://heidi2.codeberg.page/hr_data_model/applicant_evaluation</link>
+    <guid>https://heidi2.codeberg.page/hr_data_model/applicant_evaluation</guid>
+    <description><![CDATA[ Related Links applicant_evaluation area_staffing Semantic Connections graph TD Applicant_Evaluation[&quot;Applicant Evaluation&quot;]:::current-page-node area_staffing[&quot;area_staffing&quot;] Applicant_Evaluation--&gt;|&quot; subClassOf &quot;|area_staffing . ]]></description>
+    <pubDate>Fri, 08 Aug 2025 02:39:31 GMT</pubDate>
+  </item><item>
+    <title>Application</title>
+    <link>https://heidi2.codeberg.page/hr_data_model/application</link>
+    <guid>https://heidi2.codeberg.page/hr_data_model/application</guid>
+    <description><![CDATA[ Related Links application area_staffing Semantic Connections graph TD Application[&quot;Application&quot;]:::current-page-node area_staffing[&quot;area_staffing&quot;] Application--&gt;|&quot; subClassOf &quot;|area_staffing . ]]></description>
+    <pubDate>Fri, 08 Aug 2025 02:39:31 GMT</pubDate>
+  </item><item>
+    <title>application_status</title>
+    <link>https://heidi2.codeberg.page/hr_data_model/application_status</link>
+    <guid>https://heidi2.codeberg.page/hr_data_model/application_status</guid>
+    <description><![CDATA[ Related Links application_status area_staffing Semantic Connections graph TD application_status[&quot;application_status&quot;]:::current-page-node area_staffing[&quot;area_staffing&quot;] application_status--&gt;|&quot; subClassOf &quot;|area_staffing . ]]></description>
+    <pubDate>Fri, 08 Aug 2025 02:39:31 GMT</pubDate>
+  </item><item>
+    <title>Appointment</title>
+    <link>https://heidi2.codeberg.page/hr_data_model/appointment</link>
+    <guid>https://heidi2.codeberg.page/hr_data_model/appointment</guid>
+    <description><![CDATA[ Related Links appointment area_compensation_leave_pension Semantic Connections graph TD Appointment[&quot;Appointment&quot;]:::current-page-node area_compensation_leave_pension[&quot;area_compensation_leave_pension&quot;] Appointment--&gt;|&quot; subClassOf &quot;|area_compensation_leave_pension . ]]></description>
+    <pubDate>Fri, 08 Aug 2025 02:39:31 GMT</pubDate>
+  </item><item>
+    <title>Classification</title>
+    <link>https://heidi2.codeberg.page/hr_data_model/area_classification</link>
+    <guid>https://heidi2.codeberg.page/hr_data_model/area_classification</guid>
+    <description><![CDATA[ Related Links area_classification bargaining_agent classification classification_decision classification_evaluation_authorization classification_standard classification_standard_factor collective_agreement factor hr_business_line_data occupational_group on_site_review relativity_review relativity_re... ]]></description>
+    <pubDate>Fri, 08 Aug 2025 02:39:31 GMT</pubDate>
+  </item><item>
+    <title>Compensation, Leave &amp; Pension</title>
+    <link>https://heidi2.codeberg.page/hr_data_model/area_compensation_leave_pension</link>
+    <guid>https://heidi2.codeberg.page/hr_data_model/area_compensation_leave_pension</guid>
+    <description><![CDATA[ Related Links appointment area_compensation_leave_pension cash_receipt compensation deduction employee_benefit_election employee_benefit_election_status employee_request employer_request entitlement hours_of_work hours_recorded hr_business_line_data leave leave_balance pay_cheque pension pension_mem... ]]></description>
+    <pubDate>Fri, 08 Aug 2025 02:39:31 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
