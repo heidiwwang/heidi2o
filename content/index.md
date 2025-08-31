@@ -1,5 +1,5 @@
 ---
-title: index
+title: Index
 aliases:
   - Index
 created: 2025-08-31

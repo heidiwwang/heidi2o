@@ -7,7 +7,7 @@ modified: 2025-08-31
 tags:
   - h2o
 ---
-# Credits and Licenses
+
 
 This website is built using open-source libraries and resources. My eternal gratitude to the developers and communities behind them!
 
