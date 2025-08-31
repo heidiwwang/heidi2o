@@ -1,18 +1,18 @@
 ---
-title: Credits and Licenses
+title: credits_licenses
 aliases:
   - Credits and Licenses
+  - Quartz 4
 created: 2025-08-31
 modified: 2025-08-31
 tags:
   - h2o
 ---
-# Credits and Licenses
 
 This website is built using open-source libraries and resources. My eternal gratitude to the developers and communities behind them!
 
 ---
-## Quartz 4
+# Quartz 4
 
 [Quartz 4](https://quartz.jzhao.xyz/) is a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites.
 
@@ -28,7 +28,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ---
-## Lucide
+# Lucide
 
 [Lucide](https://lucide.dev/) is a beautiful, open-source icon library.
 
@@ -40,7 +40,7 @@ Permission to use, copy, modify, and distribute this software for any purpose wi
 
 THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
-### For Portions Derived from Feather
+## For Portions Derived from Feather
 
 **License**: MIT License
 

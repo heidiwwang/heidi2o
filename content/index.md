@@ -1,5 +1,5 @@
 ---
-title: Index
+title: index
 aliases:
   - Index
 created: 2025-08-31
@@ -8,7 +8,6 @@ tags:
   - h2o
 draft: false
 ---
-# Index
 
 - <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/linkedin.svg" alt="llc_linkedin" style="vertical-align: middle; width: 1em; height: 1em;"> [Connect with me on LinkedIn](https://www.linkedin.com/in/wei-ju-wang/)
 - <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/cat.svg" alt="llc_cat" style="vertical-align: middle; width: 1em; height: 1em;"> [Do you want to see a photo of my cat?](https://instagram.com/lilmishmallow)
