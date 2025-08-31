@@ -9,7 +9,7 @@ draft: false
 ---
 # Index
 
-:luc_linkedin: [Connect with me on LinkedIn](https://www.linkedin.com/in/wei-ju-wang/)
+<img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/linkedin.svg" alt="luc_linkedin" style="vertical-align: middle; width: 1em; height: 1em;"> [Connect with me on LinkedIn](https://www.linkedin.com/in/wei-ju-wang/)
 :fas_cat: [Do you want to see a photo of my cat?](https://instagram.com/lilmishmallow)
-:luc_send: [Read my blog - heidi2o](https://heidi2o.cc/blog)
-:luc_code_2: [my git repositories (codeberg)](https://codeberg.org/heidi2)
+<img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/send.svg" alt="luc_send" style="vertical-align: middle; width: 1em; height: 1em;"> [Read my blog - heidi2o](https://heidi2o.cc/blog)
+<img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/code_2.svg" alt="luc_code_2" style="vertical-align: middle; width: 1em; height: 1em;"> [my git repositories (codeberg)](https://codeberg.org/heidi2)
