@@ -9,6 +9,7 @@ tags:
 draft: false
 ---
 
+
 - <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/linkedin.svg" alt="llc_linkedin" style="vertical-align: middle; width: 1em; height: 1em;"> [Connect with me on LinkedIn](https://www.linkedin.com/in/wei-ju-wang/)
 - <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/cat.svg" alt="llc_cat" style="vertical-align: middle; width: 1em; height: 1em;"> [Do you want to see a photo of my cat?](https://instagram.com/lilmishmallow)
 - <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/bookmark.svg" alt="llc_bookmark" style="vertical-align: middle; width: 1em; height: 1em;"> [Read my blog - heidi2o](https://heidi2o.cc/blog)
