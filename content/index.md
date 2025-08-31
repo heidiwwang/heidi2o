@@ -5,7 +5,7 @@ aliases:
 created: 2025-08-31
 modified: 2025-08-31
 tags: []
-draft: true
+draft: false
 ---
 # Index
 
