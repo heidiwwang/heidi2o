@@ -1,8 +1,14 @@
 ---
+title: Thai Black Soy Sauce
+aliases:
+  - Thai Black Soy Sauce
 created: 2025-07-27
-modified: 2025-07-29
+modified: 2025-08-17
+tags: []
 class:
   - "[[Sweet Soy Sauce]]"
+draft: true
+permalink: 
 relatedTerm:
   - "[[Thailand]]"
 ---

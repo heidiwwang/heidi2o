@@ -1,9 +1,10 @@
 ---
 title: Schema
 identifier: https://schema.org/
-aliases: []
+aliases:
+  - Schema
 created: 2025-07-23
-modified: 2025-08-02
+modified: 2025-08-17
 tags: []
 class:
   - "[[Vocabulary]]"

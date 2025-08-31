@@ -1,8 +1,9 @@
 ---
 title: computational_statistics
 created: 2025-08-04
-modified: 2025-08-04
-tags: prefix/wiki
+modified: 2025-08-17
+tags:
+  - prefix/wiki
 draft: true
 mermaid_layers: 1
 permalink: 

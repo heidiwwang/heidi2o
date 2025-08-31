@@ -3,7 +3,7 @@ title: Policy on Service and Digital Processed
 aliases:
   - Policy on Service and Digital Processed
 created: 2025-08-04
-modified: 2025-08-04
+modified: 2025-08-17
 tags: []
 draft: true
 mermaid_layers: 2
@@ -12,7 +12,7 @@ permalink:
 # Policy on Service and Digital Processed
 
 1. Policy on Service and Digital has supporting instruments.
-	- [[policy_service_digital]]
+	- [[policy_service_digital 1]]
 	- [[service_digital_suite]]
 	- [[service_digital_supporting_instruments]]
 2. Policy on Service and Digital serves as an integrated set of rules on service and digital functions.

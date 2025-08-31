@@ -1,16 +1,17 @@
 ---
 title: Programming Language
-aliases: []
+aliases:
+  - Programming Language
 created: 2025-07-26
-modified: 2025-08-02
+modified: 2025-08-17
 tags: []
-date:
-description:
+date: 
+description: 
 draft: true
-permalink:
+permalink: 
 subClassOf:
-  - "[[Language]]"
   - "[[computer_programming]]"
+  - "[[Language]]"
 ---
 # Programming Language
 1. [[Python]]

@@ -1,9 +1,8 @@
 ---
 title: Sweden
 identifier: https://sweden.se/
-aliases: []
 created: 2025-07-23
-modified: 2025-08-03
+modified: 2025-08-17
 tags: []
 date: 
 description: 
