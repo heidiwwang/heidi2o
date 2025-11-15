@@ -63,7 +63,10 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
         () => {
           return (_, file) => {
             const fileData = Buffer.from(file.value as Uint8Array)
-            const { data } = matter(fileData, {
+            // <<< This is the missing line >>>
+            const fileString = fileData.toString('utf8')
+            // <<< Now use fileString instead of fileData >>>
+            const { data } = matter(fileString, {
               ...opts,
               engines: {
                 yaml: (s) => yaml.load(s, { schema: yaml.JSON_SCHEMA }) as object,
