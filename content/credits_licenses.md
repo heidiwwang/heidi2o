@@ -1,7 +1,5 @@
 ---
 title: Credits and Licenses
-aliases:
-  - Credits and Licenses
 created: 2025-08-31
 modified: 2025-08-31
 tags:
