@@ -12,6 +12,7 @@ const explorer = Component.Explorer({
   },
 })
 
+
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
