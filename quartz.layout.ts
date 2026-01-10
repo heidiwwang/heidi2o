@@ -7,6 +7,7 @@ const explorer = Component.Explorer({
     if (node.file?.frontmatter?.title) {
       node.displayName = node.file.frontmatter.title
     }
+    return node
   },
 })
 
