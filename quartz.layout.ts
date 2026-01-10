@@ -36,7 +36,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer({
       mapFn: (node) => {
         // The FileTrieNode has a 'file' property containing the frontmatter
-        if (node.file?.frontmatter?.title) {
+        if (node.file && node.file.frontmatter?.title) {
           // Set the displayName to the front matter title
           node.displayName = node.file.frontmatter.title
         }
