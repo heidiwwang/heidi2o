@@ -1,6 +1,15 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
+// 1. Define the explorer configuration once
+const explorer = Component.Explorer({
+  mapFn: (node) => {
+    if (node.file?.frontmatter?.title) {
+      node.displayName = node.file.frontmatter.title
+    }
+  },
+})
+
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
@@ -33,17 +42,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer({
-      mapFn: (node) => {
-        // The FileTrieNode has a 'file' property containing the frontmatter
-        if (node.file && node.file.frontmatter?.title) {
-          // Set the displayName to the front matter title
-          node.displayName = node.file.frontmatter.title
-        }
-        // Return the node
-        return node
-      },
-    }),
+    explorer,
   ],
   right: [
     Component.Graph({
@@ -96,7 +95,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    explorer,
   ],
   right: [],
 }
