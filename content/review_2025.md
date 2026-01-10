@@ -8,7 +8,6 @@ class: "[[BlogPosting]]"
 draft: false
 author: "[[Heidi Wang]]"
 ---
-# 2025 In Review
 
 For me, 2025 was a year in transition. This will be an unsatisfying thing to write because almost every chapter ends on a cliffhanger, but at the same time contains incredible potential for a happy ending. Just a heads up to skip this read if you're not in the headspace for discussions or mentions of mental illness, serious health issues, and intergenerational trauma/family violence.
 
