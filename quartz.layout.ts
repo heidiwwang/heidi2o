@@ -4,7 +4,8 @@ import * as Component from "./quartz/components"
 // 1. Define the explorer configuration once
 const explorer = Component.Explorer({
   mapFn: (node) => {
-    if (node.file?.frontmatter?.title) {
+    // Only apply mapping if it's not the root index
+    if (node.slugSegment !== "" && node.file?.frontmatter?.title) {
       node.displayName = node.file.frontmatter.title
     }
     return node
@@ -31,18 +32,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Flex({
-      components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
-        { Component: Component.Darkmode() },
-        { Component: Component.ReaderMode() },
-      ],
-    }),
     explorer,
   ],
   right: [
