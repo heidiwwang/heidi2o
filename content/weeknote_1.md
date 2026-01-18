@@ -18,7 +18,7 @@ I believe both MK and I are bringing  some much needed additional capacity at th
 
 A big old *however*, it was also a week in which a few GC departments, including ours, notified their employees that their position may be affected by Workforce Adjustment.
 
-It's very very annoying to fight for some scraps of psychological safety and team morale and good work and just have these things pop up beyond our control that takes our legs out from under us!! At the beginning of September it was the leak about potential returning to office 5 days a week (RTO5), this week it's the world's worst kept secret that affected letters were going out on Wednesday.
+It's very very annoying to fight for some scraps of psychological safety and team morale and good work and just have these things pop up beyond our control that takes our legs out from under us!! At the beginning of December it was the leak about potential returning to office 5 days a week (RTO5), this week it's the world's worst kept secret that affected letters were going out on Wednesday.
 
 Related, this post from Jackie Tweedie on LinkedIn:  [Friday fun fact: JT is working into a paper the term 'give'r' as a uniquely Canadian description of a public servant who against all odds - austerity budgets, confused authorities, competing… \| Jacky Tweedie](https://www.linkedin.com/posts/jackystweedie_friday-fun-fact-jt-is-working-into-a-paper-activity-7417969835583627264-T5tQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACZB6DMBsafx5mbOySW0kC4xZyHotCHmxAE)
 
