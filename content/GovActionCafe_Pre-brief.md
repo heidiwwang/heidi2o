@@ -5,17 +5,18 @@ modified: 2026-01-19
 tags: events
 ---
 
-Location: Ottawa Public Library Main Branch, Room B125
-Address: 120 Metcalfe, Ottawa ON K1P 5M2, Canada
-Date: Saturday, June 13, 2026
-Start time: 10am (10:15am welcoming remarks)
-End time: 4:30pm
-Registration link: To be confirmed
-Capacity: 25 attendees
-
 ## Purpose
 
 Canada is facing a generational challenge. This country, and its the public sector, it must meet this moment while navigating workforce adjustment, budget reduction, and a rapidly evolving international and technological landscape. We will need to be more imaginative than ever to do what matters most *better*, because we know that we cannot simply do more with less. Inspired by UKGovCamp and the OneTeamGov Unconferences, Gov Action Cafe is a 1-day participant-driven gathering for the doers and the helpers to connect, collect, and turn ideas into relentless implementation.
+
+## The Details
+- Location: Ottawa Public Library Main Branch, Room B125
+- Address: 120 Metcalfe, Ottawa ON K1P 5M2, Canada
+- Date: Saturday, June 13, 2026
+- Start time: 10am (10:15am welcoming remarks)
+- End time: 4:30pm
+- Capacity: 25 attendees
+- Registration link: To be confirmed
 
 ## What Should I Expect during the Event?
 ### The Format
