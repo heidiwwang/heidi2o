@@ -1,22 +1,20 @@
 ---
-title: Save the Date for Gov Action Cafe
+title: Save the Date for GovActionCafe 2026
 created: 2026-01-17
 modified: 2026-01-19
 tags: events
 ---
+Location: Ottawa Public Library, Main Branch, Room B125
+Address: 120 Metcalfe, Ottawa ON K1P 5M2, Canada
+Date: Saturday, June 13, 2026
+Start time: 10am (10:15am welcoming remarks)
+End time: 4:30pm
+Registration link: [GovActionCafe 2026 · Luma](https://luma.com/4k92w6be)
+Capacity: 25 attendees
 
 ## Purpose
 
 Canada is facing a generational challenge. This country, and its the public sector, it must meet this moment while navigating workforce adjustment, budget reduction, and a rapidly evolving international and technological landscape. We will need to be more imaginative than ever to do what matters most *better*, because we know that we cannot simply do more with less. Inspired by UKGovCamp and the OneTeamGov Unconferences, Gov Action Cafe is a 1-day participant-driven gathering for the doers and the helpers to connect, collect, and turn ideas into relentless implementation.
-
-## The Details
-- Location: Ottawa Public Library Main Branch, Room B125
-- Address: 120 Metcalfe, Ottawa ON K1P 5M2, Canada
-- Date: Saturday, June 13, 2026
-- Start time: 10am (10:15am welcoming remarks)
-- End time: 4:30pm
-- Capacity: 25 attendees
-- Registration link: To be confirmed
 
 ## What Should I Expect during the Event?
 ### The Format
@@ -29,11 +27,13 @@ Please feel free to play the role that feels best for you. After the event, all 
 
 1. The pitch: at the beginning of the day, participants interested in being Owners will pitch their ideas to all participants and add it the wall titled "Marketplace of Ideas" .
 2. Owners will be assigned a table and participants will have time to review each idea.
-3. Participants will then "vote with their feet" and join a table. To move forward to round 1, the owner must have 2 to 4 contributors at their table (in other words, no more than 5 people at each table). During the round, you are welcome to move to another table with less than 5 people. At the beginning of the second and third round, participants will be asked to rotate to a different table to ensure ideas are cross pollinated and owners benefit from as many participants as possible.
+3. Participants will then "vote with their feet" and join a table. To move forward to round 1, the owner must have 2 to 4 contributors at their table (in other words, no more than 5 people at each table).
+4. During the round, participants are welcome to move to another table with less than 5 people. At the beginning of the second and third round, participants will be asked to rotate to a different table to ensure ideas are cross pollinated and owners benefit from as many participants as possible.
 
 ### Chatum House Rule
 
-To ensure the free exchange of ideas, participants are asked to observe. Participants are welcome to share the _wisdom_ gained, but never the _identity_ or affiliation of the speaker.
+To ensure the free exchange of ideas, participants are asked to observe the Chatum House Rule. In other words, participants are welcome to share the _wisdom_ gained, but never the _identity_ or affiliation of the speaker.
+
 ### Photography & Consent
 
 We encourage photos to be focused on the "work" (eg. posters, sticky notes, ideas, the "Harvest" wall). Please respect the "Traffic Light" system appearing on participant name tags or obtain explicit consent before taking or tagging photos of colleagues:
@@ -50,6 +50,7 @@ Please come with a strong sense of curiousity, a willingness to learn from other
 You are encouraged to consider:
 - the seven priority areas outline by in the [Mandate Letter \| Prime Minister of Canada](https://www.pm.gc.ca/en/mandate-letters/2025/05/21/mandate-letter)
 - radical collaboration: what does a true "one team" approach look like?
+
 ## Draft Agenda
 
 | Start | End   | Allocated  | Activity                                                                                 |
@@ -63,13 +64,14 @@ You are encouraged to consider:
 | 14:15 | 15:15 | 60 minutes | Round 3 Discussion: What are the concrete next steps?                                    |
 | 15:15 | 15:45 | 30 minutes | The Harvest (synthesis of the outputs and outcomes into a wall of actions)               |
 | 15:45 | 16:15 | 30 minutes | Debrief, gratitudes, and "one thing I will do on Monday."                                |
+
 ## Can I Help with the Event?
 
 Thank goodness you're here. This event is entirely run by Volunteer so any help is welcome! Please contact me at heidiwwj@gmail.com for more info.
 
 There's a few ways to help:
 1. Contribute to offsetting the event costs
-	 - room booking: $60
+	 - room booking
 	 - office supplies
 2. Send a personal invite to a pal to attend the event with you
 3. Share your experiences with #GovActionCafe2026
@@ -82,5 +84,7 @@ There's a few ways to help:
 	- Coffee and snacks for participants (target: 25 people)
 	- Lunch for participants (target: 25 people)
 	- Stickers, pins, or other merch
+
 ## Related Links and Resources
+
 - [PRO ACTION CAFÉ \| Redesign Toolkit](https://redesigntoolkit.io/pro-action-cafe/)
