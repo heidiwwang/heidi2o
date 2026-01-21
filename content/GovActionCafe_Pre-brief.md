@@ -1,16 +1,16 @@
 ---
-title: Save the Date for GovActionCafe 2026
+title: Save the Date #GovActionCafe2026
 created: 2026-01-17
 modified: 2026-01-19
 tags: events
 ---
-Location: Ottawa Public Library, Main Branch, Room B125
-Address: 120 Metcalfe, Ottawa ON K1P 5M2, Canada
-Date: Saturday, June 13, 2026
-Start time: 10am (10:15am welcoming remarks)
-End time: 4:30pm
-Registration link: [GovActionCafe 2026 · Luma](https://luma.com/4k92w6be)
-Capacity: 25 attendees
+- Location: Ottawa Public Library, Main Branch, Room B125
+- Address: 120 Metcalfe, Ottawa ON K1P 5M2, Canada
+- Date: Saturday, June 13, 2026
+- Start time: 10am (10:15am welcoming remarks)
+- End time: 4:30pm
+- Registration link: [GovActionCafe 2026 · Luma](https://luma.com/4k92w6be)
+- Capacity: 25 attendees
 
 ## Purpose
 
