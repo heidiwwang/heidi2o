@@ -1,5 +1,5 @@
 ---
-title: Save the Date #GovActionCafe2026
+title: Save the Date GovActionCafe
 created: 2026-01-17
 modified: 2026-01-19
 tags: events
