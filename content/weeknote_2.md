@@ -8,7 +8,7 @@ class: "[[BlogPosting]]"
 draft: false
 author: "[[Heidi Wang]]"
 ---
-# weeknote_2
+# Weeknote 2 (Jan. 18-25)
 
 My brain has been fairly creatively fulfilled and challenged lately. The team I get to work with is really coming together. The static noise that has filled my brain and prevented me from doing anything other than being paralyzed by existential doom is finally getting redirected into taking action or doing special interest things again. This is the energy I hope to carry through 2026.
 
