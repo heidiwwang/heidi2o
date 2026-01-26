@@ -47,10 +47,11 @@ There are currently 2 more that I had chosen when we did the initial consult, bu
 
 1) Paulo Freire[^2] as depicted in a mural[^3] of him at the Prof. Milton de Almeida Santos Centre for Training, Technology and Educational Research. As a Persian cat.
 
- ![[freire_mural.png|200]]
+![[freire_mural.png|200]]
 
- 2) Socrates as depicted in *The Death of Socrates*[^4] by Jacques Louis David, the moment he chose to die by drinking poison hemlock as a final lesson to his pupil rather than renounce his beliefs and fleeing. I honestly cannot remember the kind of cat we talked about for this one.
- ![[socrates_death.png|200]]
+2) Socrates as depicted in *The Death of Socrates*[^4] by Jacques Louis David, the moment he chose to die by drinking poison hemlock as a final lesson to his pupil rather than renounce his beliefs and fleeing. I honestly cannot remember the kind of cat we talked about for this one.
+
+![[socrates_death.png|200]]
 
 Other possibilities include: Carrie Jenkins[^5] and Audre Lorde[^6].
 
