@@ -1,5 +1,5 @@
 ---
-title: Weeknote 2 (Jan. 18-25)
+title: Weeknote 2 (Jan. 18-25, 2026)
 created: 2026-01-25
 modified: 2026-01-25
 tags:
