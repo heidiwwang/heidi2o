@@ -1,5 +1,5 @@
 ---
-title: Weeknote 1 (Jan 12-17)
+title: Weeknote 1 (Jan 12-17, 2026)
 created: 2026-01-17
 modified: 2026-01-17
 tags: journal
