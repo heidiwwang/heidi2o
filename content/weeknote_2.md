@@ -70,7 +70,9 @@ Relatedly, JD who has been coming for a few weeks has recently been working on w
 I really love stand up. It's a lot of what I watch in the evenings to wind down. It has been on my mind for a few month because my previous manager, CS, had spent a few years in the UK comedy scene out of which came many of my favourite comedians. Although at the moment, Josh Johnson is my favourite for this meandering storytelling style that sometimes dispenses with jokes to make serious points about the state of the world.
 
 It's just a very specific and precise area of writing craft that I wish I could be more intentional about. I feel like I like making people laugh and being more conscious about how to craft jokes, has become one of the most effective facilitation tool. Which is not to say I land it a lot of the time. I feel like I have spent more time using humour to deflect attention or fill space where I am uncomfortable, rather than having true mastery over the tension in an audience of people. I would love to be able to do that latter, I think it would make me feel more at ease and less self conscious about speaking in front a group.
+
 # Footnotes
+
 [^1]: my introduction to her was through [Miracles in Dark Times: Hannah Arendt and Refugees as ‘Vanguard’](https://academic.oup.com/jrs/article/34/1/67/5532154?login=false)
 [^2]: [Pedagogy of the Oppressed - Wikipedia](https://en.wikipedia.org/wiki/Pedagogy_of_the_Oppressed)
 [^3]: [Radical Education: An Introduction to Paulo Freire](https://proteanmag.com/2020/09/14/radical-education-an-introduction-to-paulo-freire/)
