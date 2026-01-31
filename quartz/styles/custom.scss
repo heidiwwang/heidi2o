@@ -64,3 +64,27 @@
     font-weight: bold !important;
     /* Make text bold */
 }
+
+// Targets the paragraph or span that typically wraps images in Quartz/Markdown
+p:has(img[alt]) {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 2rem;
+
+    img[alt] {
+        margin-bottom: 0.5rem;
+    }
+
+    // Creates the caption using the alt text
+    &::after {
+        content: attr(alt);
+        display: block;
+        font-size: 0.85rem;
+        line-height: 1.4;
+        color: var(--gray); // Uses Quartz's built-in color variable
+        font-style: italic;
+        text-align: center;
+        max-width: 80%;
+    }
+}
