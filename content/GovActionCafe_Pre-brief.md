@@ -10,7 +10,6 @@ tags: []
 ## Purpose
 
 Canada is facing a generational challenge. This country, and its the public sector, it must meet this moment while navigating workforce adjustment, budget reduction, and a rapidly evolving international and technological landscape. We will need to be more imaginative than ever to do what matters most *better*, because we know that we cannot simply do more with less. Inspired by UKGovCamp and the OneTeamGov Unconferences, Gov Action Cafe is a 1-day participant-driven gathering for the doers and the helpers to connect, collect, and turn ideas into relentless implementation.
-
 ## Logistics
 
 - Location: Ottawa Public Library, Main Branch, Room B125
@@ -28,7 +27,6 @@ Please come with a strong sense of curiousity, a willingness to learn from other
 You are encouraged to consider:
 - the seven priority areas outline by in the [Mandate Letter \| Prime Minister of Canada](https://www.pm.gc.ca/en/mandate-letters/2025/05/21/mandate-letter)
 - radical collaboration: what does a true "one team" approach look like?
-
 ### The Format
 
 This event will be utilize a "Pro Action Cafe" format. Participants will play one of two key roles:
@@ -55,7 +53,6 @@ We encourage photos to be focused on the "work" (eg. posters, sticky notes, idea
 - Green Sticker: "I am happy to be in photos and tagged."
 
 At the beginning and end of the day, the organizer will welcome participants to move in or out of frame for group photos that will be shared on social media (untagged).
-
 ## Draft Agenda
 
 | Start | End   | Allocated  | Activity                                                                                 |
