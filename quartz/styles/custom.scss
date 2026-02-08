@@ -65,35 +65,29 @@
     /* Make text bold */
 }
 
-// Targets the paragraph containing the image
-p:has(img[alt]) {
+// 1. Target the Obsidian-style embed wrapper that Quartz 4 uses
+.internal-embed[alt] {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-bottom: 2rem;
+    margin: 1.5rem 0;
 
+    // 2. Style the image inside
     img {
-        margin-bottom: 0.5rem;
+        margin: 0 !important; // Remove default Quartz margins
+        border-radius: 5px;
     }
 
-    // We use the 'title' attribute if available, or a specific Quartz class
-    // Note: CSS cannot easily pull the alt text of a CHILD into the parent's content.
-}
-
-// THE WORKAROUND:
-// Quartz often renders Obsidian-style images with specific data attributes.
-// If you are using the ![[image.png|caption]] syntax:
-span.internal-embed[alt] {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-
+    // 3. Create the caption using the wrapper's alt attribute
     &::after {
-        content: attr(alt); // This works because Quartz puts the caption in the span's alt
+        content: attr(alt);
         display: block;
-        font-size: 0.85rem;
+        margin-top: 0.5rem;
+        font-size: 0.9rem;
+        line-height: 1.4;
         color: var(--gray);
         font-style: italic;
-        margin-top: 0.5rem;
+        text-align: center;
+        max-width: 90%;
     }
 }
