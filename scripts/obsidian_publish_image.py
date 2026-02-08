@@ -9,7 +9,7 @@ OBSIDIAN_ATTACHMENTS = Path('/home/hide/Documents/heidi2o/02_library/attachments
 QUARTZ_CONTENT = Path('/home/hide/quartz/content')
 QUARTZ_ATTACHMENTS = QUARTZ_CONTENT / "assets"
 
-NOTE_FILENAME = "weeknote_3.md"
+NOTE_FILENAME = "weeknote_4.md"
 
 def process_content(content):
     # 1. Find the first H1 (e.g., # My Title)
