@@ -10,7 +10,10 @@ tags:
 
 It's been a fever  dream of a week where Hudson William gave Mark Carney his Team Canada fleece[^1], it was declared Shane Hollander Day[^2] in Ottawa, and I was stranded downtown for 2 hours because the transit system is in chaos[^3], and my only question is: did Shane Hollander's dad[^4] also get a letter saying, further to the Comprehensive Expenditure Review[^5], his position at Treasury Board may be effected[^6]?
 
-![[Pasted image 20260131120533.png|Mark Carney poses with Hudson Williams (Photo by Andrej Ivanov/Getty Images)]]
+<figure>
+  <img src="/assets/Pasted image 20260131120533.png" alt="Mark Carney poses with Hudson Williams (Photo by Andrej Ivanov/Getty Images)">
+  <figcaption>Mark Carney poses with Hudson Williams (Photo by Andrej Ivanov/Getty Images)</figcaption>
+</figure>
 ## What Shape is Your Mind?
 
 One of my favourite work pals, JC asked me a question that stuck with me last year: what do you imagine when you are trying to describe your mind? I haven't settled completely on my answer, but the closet I got was somewhere between a knowledge graph, a library catalog, and a cloud. For the most part, it is molecules loosely grouped, other parts are carefully tended to and filed away, and yet others are semantically linked and retrieved relationally.
@@ -23,7 +26,10 @@ The only way to find out how it all connects is to continue to add a new  routes
 
 There's a lot being said about how transformative or existential this particular moment we are in is. In fact, that is the premise of the GovActionCafe event that I am planning for June 13, 2026 ([[GovActionCafe_Pre-brief|learn more and register here]]).
 
-![[GovActionCafe_Pre-brief#Purpose|GovActionCafe]]
+<figure>
+  <img src="/assets/GovActionCafe_Pre-brief#Purpose" alt="GovActionCafe">
+  <figcaption>GovActionCafe</figcaption>
+</figure>
 
 Contexts like these, bring me back to my central ethos, which I started to articulate a few years ago in this presentation: [Analogue tools for digital change: Teaching Data through Arts and Crafts - Google Drive](https://drive.google.com/file/d/1O_zN4peXkXM5yXmlLMVJxZWFYe1b_mwr/view?usp=drive_link). Back then my primary focus was on teaching and improving data literacy, and thus I had summarized that centre as using "caring and inclusive approaches to spreading the joy of data". I will share briefly today how I arrived on it, some early thoughts what this looks like now that I am back in a practitioner role[^8], and bigger picture, is it sufficiently expansive to account for the other parts of my identity, life,  and communities?
 

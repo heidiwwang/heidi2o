@@ -9,7 +9,6 @@ tags:
 ---
 
 This is going to be a short one[^1] because I'm a bit under the weather and I should be studying for my French class test on Wednesday.
-
 ## Highlights
 
 ### The Perfect Month
@@ -20,7 +19,6 @@ First, I realized along with many others that it's a perfect February.
   <img src="/assets/Pasted image 20260208132801.png" alt="Screenshot of a post by user @Rainmaker1973 "February 2026 is officially being dubbed a "Perfect Month" because it starts on a Sunday and ends on a Saturday, fitting perfectly into four complete rows on a standard calendar."">
   <figcaption>Screenshot of a post by user @Rainmaker1973 "February 2026 is officially being dubbed a "Perfect Month" because it starts on a Sunday and ends on a Saturday, fitting perfectly into four complete rows on a standard calendar."</figcaption>
 </figure>
-
 ### Mr. Worldwide
 
 It was a great week for making  informal connections internationally:
@@ -28,7 +26,6 @@ It was a great week for making  informal connections internationally:
 2. Connected with someone from the Queensland (Australian) government who is also looking at creating community, informal spaces for people to connect. She shared some really neat content her team developed on [collaborating in government](https://www.forgov.qld.gov.au/service-design-and-delivery/governance-and-collaboration/collaborating-in-government).
 
 Both conversation highlighted that talking to likeminded people is really important because solutions exist, we can learn from one another's successes/failures, and we are not alone. Put another way... we are rarely as unique as we'd like to think we are - and that's a good thing.
-
 ### Automating Stakeholders Mapping
 
 There's almost no consistency in what software is allowed in which department[^2], except for the choke hold the Microsoft suite[^3] keeps the world in. Because of this, I've been a lot of different attempts to do mapping using various drawing or diagramming tools, many of which require hardcoding in label that are frequently lost when exported into images or PDFs.
@@ -67,7 +64,6 @@ The_Force-->|"" empowers ""|Darth_Vader
 1. RTO4[^6] .
 
 2. Cynicism, defeatism, nihilism, or whatever, and the performance of it. My previous role, I would characterize as having a bit of a culture of toxic positivity.  My current, I'm feeling like there's a learned helplessness that is enforced socially and any attempt to be hopeful is mocked, treated as naive, or ignored. And it's somehow linked to making decisions on vibes rather than evidence. Insisting on replicating existing methods that have been shown not to work so as to preemptively sabotage efforts for improvement? To be investigated further. What seems apparent is that my optimistic outlook[^7] seems to make people who have less experience successfully doing transformative work in a government context than me talk to me like I'm a baby gazelle wobbling through my first steps[^8].
-
 
 [^1]: In my defense, it's not as long as it could have been. I was optimistic when I wrote that sentence earlier today.
 [^2]: See also: [Is this blocked in my department.ca](https://isthisblockedinmydepartment.ca/) and [Should it be blocked in my department?](https://shoulditbeblockedinmydepartment.ca/)
