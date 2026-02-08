@@ -12,22 +12,37 @@ QUARTZ_ATTACHMENTS = QUARTZ_CONTENT / "assets"
 NOTE_FILENAME = "weeknote_4.md"
 
 def process_content(content):
-    # 1. Find the first H1 (e.g., # My Title)
+    # 1. Update YAML title from H1 (Existing Logic)
     h1_match = re.search(r'^#\s+(.+)$', content, re.MULTILINE)
-    
     if h1_match:
         h1_text = h1_match.group(1).strip()
-        # 2. Remove the first H1 line from the content
-        # This replaces the first occurrence of the H1 line with an empty string
         content = re.sub(r'^#\s+.+$\n?', '', content, count=1, flags=re.MULTILINE)
-        
-        # 3. Update the YAML title
-        # Looks for title: followed by anything and replaces it
         if re.search(r'^title:.*$', content, re.MULTILINE):
             content = re.sub(r'^title:.*$', f'title: "{h1_text}"', content, flags=re.MULTILINE)
         else:
-            # If no title field exists, insert it into the first YAML block found
             content = re.sub(r'^---', f'---\ntitle: "{h1_text}"', content, count=1)
+
+    # 2. TRANSFORM ![[image.png|caption]] to <figure>
+    # Regex breakdown: !\[\[  (Filename)  (?:\|  (Caption))?  \]\]
+    def figure_replacement(match):
+        filename = match.group(1).split('|')[0].strip()
+        # Check if there's a caption after the pipe
+        parts = match.group(1).split('|')
+        caption = parts[1].strip() if len(parts) > 1 else ""
+
+        if caption:
+            return (
+                f'<figure>\n'
+                f'  <img src="/assets/{filename}" alt="{caption}">\n'
+                f'  <figcaption>{caption}</figcaption>\n'
+                f'</figure>'
+            )
+        else:
+            # Fallback for images without captions
+            return f'<img src="/assets/{filename}" alt="{filename}">'
+
+    # Apply the replacement to all wikilink images
+    content = re.sub(r'!\[\[(.*?)\]\]', figure_replacement, content)
             
     return content
 
@@ -42,22 +57,22 @@ def copy_to_quartz(note_name):
     QUARTZ_ATTACHMENTS.mkdir(parents=True, exist_ok=True)
 
     with open(source_path, 'r', encoding='utf-8') as f:
-        content = f.read()
+        raw_content = f.read()
 
-    # Apply the H1 to YAML transformation
-    updated_content = process_content(content)
+    # Find attachments BEFORE transforming content to HTML
+    # We need the filenames to copy the actual files
+    attachment_links = re.findall(r'!\[\[(.*?)\]\]', raw_content)
 
-    # Find attachments
-    attachments = re.findall(r'!\[\[(.*?)\]\]', content)
+    # Transform content (H1 to Title AND Images to Figures)
+    updated_content = process_content(raw_content)
 
-    # Write the modified content to Quartz
     with open(QUARTZ_CONTENT / note_name, 'w', encoding='utf-8') as f:
         f.write(updated_content)
     print(f"✅ Note processed and copied: {note_name}")
 
-    # Copy attachments
-    for asset_raw in attachments:
-        asset_name = asset_raw.split('|')[0].strip()
+    # Copy actual image files
+    for link in attachment_links:
+        asset_name = link.split('|')[0].strip()
         src_asset = OBSIDIAN_ATTACHMENTS / asset_name
         
         if not src_asset.exists():

@@ -65,29 +65,26 @@
     /* Make text bold */
 }
 
-// 1. Target the Obsidian-style embed wrapper that Quartz 4 uses
-.internal-embed[alt] {
+figure {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin: 1.5rem 0;
+    margin: 2rem 0;
+    padding: 0;
 
-    // 2. Style the image inside
     img {
-        margin: 0 !important; // Remove default Quartz margins
-        border-radius: 5px;
+        max-width: 100%;
+        height: auto;
+        border-radius: 8px;
+        margin-bottom: 0.75rem;
     }
 
-    // 3. Create the caption using the wrapper's alt attribute
-    &::after {
-        content: attr(alt);
-        display: block;
-        margin-top: 0.5rem;
-        font-size: 0.9rem;
+    figcaption {
+        font-size: 0.85rem;
         line-height: 1.4;
         color: var(--gray);
         font-style: italic;
         text-align: center;
-        max-width: 90%;
+        max-width: 80%;
     }
 }

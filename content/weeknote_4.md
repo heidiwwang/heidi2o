@@ -16,12 +16,14 @@ This is going to be a short one[^1] because I'm a bit under the weather and I sh
 
 First, I realized along with many others that it's a perfect February.
 
-![[Pasted image 20260208132801.png|Screenshot of a post by user @Rainmaker1973 "February 2026 is officially being dubbed a "Perfect Month" because it starts on a Sunday and ends on a Saturday, fitting perfectly into four complete rows on a standard calendar."]]
+<figure>
+  <img src="/assets/Pasted image 20260208132801.png" alt="Screenshot of a post by user @Rainmaker1973 "February 2026 is officially being dubbed a "Perfect Month" because it starts on a Sunday and ends on a Saturday, fitting perfectly into four complete rows on a standard calendar."">
+  <figcaption>Screenshot of a post by user @Rainmaker1973 "February 2026 is officially being dubbed a "Perfect Month" because it starts on a Sunday and ends on a Saturday, fitting perfectly into four complete rows on a standard calendar."</figcaption>
+</figure>
 
 ### Mr. Worldwide
 
 It was a great week for making  informal connections internationally:
-
 1. My team had the chance to connect with folks working on the [National Data Library: progress update, January 2026 - GOV.UK](https://www.gov.uk/government/publications/national-data-library-progress-update-january-2026/national-data-library-progress-update-january-2026) to share experiences. More thinking to following in the coming months on imagining more integrated data services for the GC.
 2. Connected with someone from the Queensland (Australian) government who is also looking at creating community, informal spaces for people to connect. She shared some really neat content her team developed on [collaborating in government](https://www.forgov.qld.gov.au/service-design-and-delivery/governance-and-collaboration/collaborating-in-government).
 
