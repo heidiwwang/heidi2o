@@ -65,26 +65,35 @@
     /* Make text bold */
 }
 
-// Targets the paragraph or span that typically wraps images in Quartz/Markdown
+// Targets the paragraph containing the image
 p:has(img[alt]) {
     display: flex;
     flex-direction: column;
     align-items: center;
     margin-bottom: 2rem;
 
-    img[alt] {
+    img {
         margin-bottom: 0.5rem;
     }
 
-    // Creates the caption using the alt text
+    // We use the 'title' attribute if available, or a specific Quartz class
+    // Note: CSS cannot easily pull the alt text of a CHILD into the parent's content.
+}
+
+// THE WORKAROUND:
+// Quartz often renders Obsidian-style images with specific data attributes.
+// If you are using the ![[image.png|caption]] syntax:
+span.internal-embed[alt] {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
     &::after {
-        content: attr(alt);
+        content: attr(alt); // This works because Quartz puts the caption in the span's alt
         display: block;
         font-size: 0.85rem;
-        line-height: 1.4;
-        color: var(--gray); // Uses Quartz's built-in color variable
+        color: var(--gray);
         font-style: italic;
-        text-align: center;
-        max-width: 80%;
+        margin-top: 0.5rem;
     }
 }
