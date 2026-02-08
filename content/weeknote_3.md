@@ -14,6 +14,7 @@ It's been a fever  dream of a week where Hudson William gave Mark Carney his Tea
   <img src="/assets/Pasted image 20260131120533.png" alt="Mark Carney poses with Hudson Williams (Photo by Andrej Ivanov/Getty Images)">
   <figcaption>Mark Carney poses with Hudson Williams (Photo by Andrej Ivanov/Getty Images)</figcaption>
 </figure>
+
 ## What Shape is Your Mind?
 
 One of my favourite work pals, JC asked me a question that stuck with me last year: what do you imagine when you are trying to describe your mind? I haven't settled completely on my answer, but the closet I got was somewhere between a knowledge graph, a library catalog, and a cloud. For the most part, it is molecules loosely grouped, other parts are carefully tended to and filed away, and yet others are semantically linked and retrieved relationally.
