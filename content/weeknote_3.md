@@ -1,7 +1,7 @@
 ---
-title: "Weeknote 3 (Jan 26-Feb 1)"
+title: "Weeknote 3 (Jan 26-Feb 1, 2026)"
 aliases:
-  - Weeknote 3 (Jan 26-Feb 1)
+  - Weeknote 3 (Jan 26-Feb 1, 2026)
 created: 2026-01-31
 modified: 2026-02-02
 tags:

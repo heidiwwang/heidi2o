@@ -1,8 +1,8 @@
 ---
-title: "Weeknote 4 (Feb 2 - 8)
+title: "Weeknote 4 (Feb 2 - 8, 2026)
 "
 aliases:
-  - Weeknote 4 (Feb 2 - 8)
+  - Weeknote 4 (Feb 2 - 8, 2026)
 created: 2026-02-08
 modified: 2026-02-09
 tags:
