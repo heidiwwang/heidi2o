@@ -9,7 +9,7 @@ OBSIDIAN_ATTACHMENTS = Path('/home/hide/Documents/heidi2o/02_library/attachments
 QUARTZ_CONTENT = Path('/home/hide/quartz/content')
 QUARTZ_ATTACHMENTS = QUARTZ_CONTENT / "assets"
 
-NOTE_FILENAME = "weeknote_3.md"
+NOTE_FILENAME = "weeknote_4.md"
 
 def process_content(content):
     # 1. Update YAML title from H1 (Existing Logic)
@@ -18,9 +18,9 @@ def process_content(content):
         h1_text = h1_match.group(1).strip()
         content = re.sub(r'^#\s+.+$\n?', '', content, count=1, flags=re.MULTILINE)
         if re.search(r'^title:.*$', content, re.MULTILINE):
-            content = re.sub(r'^title:.*$', f'title: "{h1_text}"', content, flags=re.MULTILINE)
+            content = re.sub(r'^title:.*$', f'title: "{h1_text}\n"', content, flags=re.MULTILINE)
         else:
-            content = re.sub(r'^---', f'---\ntitle: "{h1_text}"', content, count=1)
+            content = re.sub(r'^---', f'---\ntitle: "{h1_text}\n"', content, count=1)
 
     # 2. TRANSFORM ![[image.png|caption]] to <figure>
     # Regex breakdown: !\[\[  (Filename)  (?:\|  (Caption))?  \]\]
@@ -35,7 +35,7 @@ def process_content(content):
                 f'<figure>\n'
                 f'  <img src="/assets/{filename}" alt="{caption}">\n'
                 f'  <figcaption>{caption}</figcaption>\n'
-                f'</figure>'
+                f'</figure>\n'
             )
         else:
             # Fallback for images without captions
