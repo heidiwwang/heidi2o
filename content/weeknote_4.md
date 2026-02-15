@@ -4,7 +4,7 @@ title: "Weeknote 4 (Feb 2 - 8, 2026)
 aliases:
   - Weeknote 4 (Feb 2 - 8, 2026)
 created: 2026-02-08
-modified: 2026-02-09
+modified: 2026-02-15
 tags:
   - journal
 ---
