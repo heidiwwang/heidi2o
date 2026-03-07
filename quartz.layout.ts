@@ -84,10 +84,11 @@ export const defaultContentPageLayout: PageLayout = {
   afterBody: [
     Component.RecentNotes({
       title: "Recently Updated",
-      limit: 3,
+      limit: 5,
+      filter: (file) => file.frontmatter?.tags?.includes("journal") === true,
       // Only show this component if the current page is the index
       filter: (f) => f.slug == "index", 
-      linkToMore: "tags/", 
+      linkToMore: "tags/journal", 
     }),
   ],
 }
