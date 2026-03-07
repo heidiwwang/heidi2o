@@ -1,5 +1,5 @@
 ---
-title: Weeknote 1 (Jan 12-17, 2026)
+title: "Weeknote 1 - French, Mentoring, Rebuilding Year"
 created: 2026-01-17
 modified: 2026-01-17
 tags: journal

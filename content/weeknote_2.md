@@ -1,5 +1,5 @@
 ---
-title: Weeknote 2 (Jan. 18-25, 2026)
+title: "Weeknote 2 - (un)Conferences and the Philosopher Cats"
 created: 2026-01-25
 modified: 2026-01-25
 tags:

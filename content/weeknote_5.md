@@ -1,6 +1,5 @@
 ---
-title: "Weeknote 5 (Feb 9 - 15, 2026)
-"
+title: "Week 5 - Caretaker's dilemma"
 aliases:
   - Weeknote 5 (Feb 9 - 15, 2026)
 created: 2026-02-15

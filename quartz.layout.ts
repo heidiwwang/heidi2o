@@ -32,6 +32,18 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
     Component.TagList(),
   ],
+  afterBody: [
+    Component.ConditionalRender({
+      component: Component.RecentNotes({
+        title: "Read my weeknotes",
+        showTags: false,
+        filter: (file) => file.frontmatter?.tags?.includes("journal") == true,
+        limit: 3,
+        linkToMore: "tags/journal",
+        }),
+      condition: (page) => page.fileData.slug == "index",
+    })
+  ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
@@ -80,16 +92,6 @@ export const defaultContentPageLayout: PageLayout = {
 }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
-  ],
-  afterBody: [
-    Component.RecentNotes({
-      title: "Recently Updated",
-      limit: 5,
-      filter: (file) => file.frontmatter?.tags?.includes("journal") === true,
-      // Only show this component if the current page is the index
-      filter: (f) => f.slug == "index", 
-      linkToMore: "tags/journal", 
-    }),
   ],
 }
 

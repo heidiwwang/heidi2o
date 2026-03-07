@@ -1,5 +1,5 @@
 ---
-title: "Weeknote 3 (Jan 26-Feb 1, 2026)"
+title: "Weeknote 3 - What do we owe to (Shane Hollander)?"
 aliases:
   - Weeknote 3 (Jan 26-Feb 1, 2026)
 created: 2026-01-31

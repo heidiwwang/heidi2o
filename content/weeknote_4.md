@@ -1,6 +1,5 @@
 ---
-title: "Weeknote 4 (Feb 2 - 8, 2026)
-"
+title: "Weeknote 4 - A Perfect Month and a Stakeholder Mapping Tool"
 aliases:
   - Weeknote 4 (Feb 2 - 8, 2026)
 created: 2026-02-08

@@ -1,5 +1,5 @@
 ---
-title: 2025 In Review
+title: "2025 In Review - The Finite, the Unknown, the Unexpected, and the Cogent (and the Wardrobe)"
 created: 2025-12-27
 modified: 2026-01-09
 tags:
