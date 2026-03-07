@@ -10,6 +10,10 @@ const explorer = Component.Explorer({
     }
     return node
   },
+    filterFn: (node) => {
+    // exclude files with the tag "journal"
+    return node.data?.tags?.includes("journal") !== true
+  },
 })
 
 
