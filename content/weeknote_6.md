@@ -1,8 +1,6 @@
 ---
-title: "Weeknote 6: a Low-fi Personal Finance App and return of the Reading List
+title: "Weeknote 6 - a Low-fi Personal Finance App and return of the Reading List
 "
-aliases:
-  - "Weeknote 6: a Low-fi Personal Finance App and return of the Reading List"
 created: 2026-03-07
 modified: 2026-03-08
 tags:
