@@ -4,13 +4,15 @@ title: "Weeknote 7 - Technology, Us, the World
 aliases:
   - Weeknote 7 - Technology, Us, the World
 created: 2026-03-15
-modified: 2026-03-15
-tags: []
+modified: 2026-03-22
+tags:
+  - journal
 ---
 
 Happy [Open Data Week](https://opendataday.org/)! After many years of interest in the Open Data file, I have found my way to the [GC Open Government Portal](https://open.canada.ca/en). In my first few months on the file, I have picked up on a sentiment of "Open data is dead". I've been trying to untangle whether this was a reflection of a burnt out and jaded public servant or if this is actually where we are. It's certainly less shiny than it was more than 10 years ago, but there's no shortage of work nor need in this space. Perhaps it's not a death, but a rebirth. Bureaucrats, put your thinking caps on, it might be time for a new acronym.
 
 This week's post will mostly be the 2 lists below. I'm cooking up somethings that I can't talk about just yet, but know that I am literally vibrating to be able to share. Enjoy that bit of mundane intrigue.
+
 ## Bookmarked This Week
 
 1. A new publication from Munk's School of Global Affairs and Public Policy exploring strategic options to defend Canada's AI Literacy [Sovereign by Design | AI Competitiveness Project](https://aicompetitiveness.ca/)

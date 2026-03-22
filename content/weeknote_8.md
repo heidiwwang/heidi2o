@@ -5,7 +5,8 @@ aliases:
   - Weeknote 8 - Embodied Data
 created: 2026-03-22
 modified: 2026-03-22
-tags: []
+tags:
+  - journal
 ---
 
 It's somehow almost April, but also the slowest year ever? Here's the bookmarks and radar for this week. And Eid Mubarak to those who celebrate!
