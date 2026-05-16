@@ -26,6 +26,10 @@ export const Latex: QuartzTransformerPlugin<Partial<Options>> = (opts) => {
   const macros = opts?.customMacros ?? {}
   return {
     name: "Latex",
+    textTransform(_ctx, src) {
+      // Automatically escape naked currency signs so they skip remarkMath
+      return src.toString().replaceAll(/(?<!\\)\$(\d)/g, "\\$$1")
+    },
     markdownPlugins() {
       return [remarkMath]
     },

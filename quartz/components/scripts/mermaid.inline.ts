@@ -25,7 +25,6 @@ class DiagramPanZoom {
   }
 
   private setupEventListeners() {
-    // Mouse drag events
     const mouseDownHandler = this.onMouseDown.bind(this)
     const mouseMoveHandler = this.onMouseMove.bind(this)
     const mouseUpHandler = this.onMouseUp.bind(this)
@@ -54,7 +53,6 @@ class DiagramPanZoom {
     const controls = document.createElement("div")
     controls.className = "mermaid-controls"
 
-    // Zoom controls
     const zoomIn = this.createButton("+", () => this.zoom(0.1))
     const zoomOut = this.createButton("-", () => this.zoom(-0.1))
     const resetBtn = this.createButton("Reset", () => this.resetTransform())
@@ -76,7 +74,7 @@ class DiagramPanZoom {
   }
 
   private onMouseDown(e: MouseEvent) {
-    if (e.button !== 0) return // Only handle left click
+    if (e.button !== 0) return
     this.isDragging = true
     this.startPan = { x: e.clientX - this.currentPan.x, y: e.clientY - this.currentPan.y }
     this.container.style.cursor = "grabbing"
@@ -102,7 +100,6 @@ class DiagramPanZoom {
   private zoom(delta: number) {
     const newScale = Math.min(Math.max(this.scale + delta, this.MIN_SCALE), this.MAX_SCALE)
 
-    // Zoom around center
     const rect = this.content.getBoundingClientRect()
     const centerX = rect.width / 2
     const centerY = rect.height / 2
@@ -160,7 +157,6 @@ document.addEventListener("nav", async () => {
   }
 
   async function renderMermaid() {
-    // de-init any other diagrams
     for (const node of nodes) {
       node.removeAttribute("data-processed")
       const oldText = textMapping.get(node)
@@ -177,7 +173,8 @@ document.addEventListener("nav", async () => {
       {} as Record<(typeof cssVars)[number], string>,
     )
 
-    const darkMode = document.documentElement.getAttribute("saved-theme") === "dark"
+    const darkMode = document.documentElement.getAttribute("saved-theme") === "dark";
+
     mermaid.initialize({
       startOnLoad: false,
       securityLevel: "loose",
@@ -185,14 +182,26 @@ document.addEventListener("nav", async () => {
       themeVariables: {
         fontFamily: computedStyleMap["--codeFont"],
         primaryColor: computedStyleMap["--light"],
-        primaryTextColor: computedStyleMap["--darkgray"],
-        primaryBorderColor: computedStyleMap["--tertiary"],
-        lineColor: computedStyleMap["--darkgray"],
-        secondaryColor: computedStyleMap["--secondary"],
-        tertiaryColor: computedStyleMap["--tertiary"],
-        clusterBkg: computedStyleMap["--light"],
-        edgeLabelBackground: computedStyleMap["--highlight"],
+        primaryTextColor: computedStyleMap["--dark"],
+        textColor: computedStyleMap["--dark"],
+        primaryBorderColor: computedStyleMap["--darkgray"],
+        lineColor: computedStyleMap["--dark"],
+        actorLineColor: computedStyleMap["--darkgray"],
+        edgeLabelBackground: computedStyleMap["--light"],
+        cScale0: computedStyleMap["--tertiary"],          
+        cScaleLabel0: computedStyleMap["--dark"],         
+        cScale1: computedStyleMap["--secondary"],         
+        cScaleLabel1: computedStyleMap["--light"],         
+        cScale2: computedStyleMap["--lightgray"],          
+        cScaleLabel2: computedStyleMap["--dark"],         
+        taskBkgColor: computedStyleMap["--tertiary"],
+        taskTextColor: computedStyleMap["--dark"],
       },
+      timeline: {
+        width: 230,          
+        textFontSize: '13px', 
+        wrapScale: 0.6,      
+      }
     })
 
     await mermaid.run({ nodes })
@@ -214,11 +223,9 @@ document.addEventListener("nav", async () => {
       parseFloat(clipboardStyle.marginLeft || "0") +
       parseFloat(clipboardStyle.marginRight || "0")
 
-    // Set expand button position
     expandBtn.style.right = `calc(${clipboardWidth}px + 0.3rem)`
     pre.prepend(expandBtn)
 
-    // query popup container
     const popupContainer = pre.querySelector("#mermaid-container") as HTMLElement
     if (!popupContainer) return
 
@@ -229,15 +236,12 @@ document.addEventListener("nav", async () => {
       if (!content) return
       removeAllChildren(content)
 
-      // Clone the mermaid content
       const mermaidContent = codeBlock.querySelector("svg")!.cloneNode(true) as SVGElement
       content.appendChild(mermaidContent)
 
-      // Show container
       popupContainer.classList.add("active")
       container.style.cursor = "grab"
 
-      // Initialize pan-zoom after showing the popup
       panZoom = new DiagramPanZoom(container, content)
     }
 
