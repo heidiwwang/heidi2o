@@ -4,7 +4,7 @@ title: "Baby Countdown
 aliases:
   - Baby Countdown
 created: 2026-03-22
-modified: 2026-05-16
+modified: 2026-05-17
 tags: []
 ---
 
@@ -20,7 +20,7 @@ timeline
 	    August 2026 : Third trimester
 	    November 22, 2026 : Approximate due date
 	    
-	section Year 1
+	section After Birth
 		Around January 2026: Celebrating Baby's Full Moon ("Man Yue")		
 ```
 # No Baby Shower or Gifts before Birth
@@ -35,8 +35,7 @@ More details to come when we have confirmed the details.
 We would prefer to observe the traditions of **Red Envelopes**, for this reason we have not set up a baby registry. A red envelope is not just about money: a red envelope is a way to provide a blessing to baby for their future. The red of the envelope itself represents **energy, protection, and good fortune**. The value inside the envelope also have symbolic meaning. There are some specific guidelines for preparing a red envelope to ensure maximum blessings to the baby, however, we are equally grateful just for your presence in celebrating with us.
 ## Guidelines for Preparing a Red Envelope
 
-- A brand new traditional red envelope or **hong bao**
-- New, crisp bills, if possible, and avoid including coins
+- Use new, crisp bills, if possible, and avoid including coins, in brand new traditional red envelope or **hong bao**
 - Hand it over with both hands
 - Please avoid the number 4 as it is a homophone for "death".
 - You can see the table below for examples of target amounts and the denominations to use and their meaning. Honestly though, don't overthink it!
