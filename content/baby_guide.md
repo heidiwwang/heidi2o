@@ -23,7 +23,7 @@ timeline
 	section After Birth
 		Around January 2026: Celebrating Baby's Full Moon ("Man Yue")		
 ```
-## No Baby Shower or Gifts before Birth
+### No Baby Shower or Gifts before Birth
 
 The big difference from what you may be use to is that we will not be holding a baby shower before the birth. In my culture, it is bad luck to celebrate the baby too early either by holding an event or accepting gifts before the birth.
 
