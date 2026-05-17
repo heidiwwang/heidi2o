@@ -1,10 +1,11 @@
 ---
-title: "Save the Date for GovActionCafe 2026"
+title: "Save the Date for GovActionCafe 2026
+"
 aliases:
   - Gov Action Cafe
   - Save the Date for GovActionCafe 2026
 created: 2026-01-17
-modified: 2026-01-31
+modified: 2026-05-17
 tags: []
 ---
 ## Purpose
@@ -20,6 +21,17 @@ Canada is facing a generational challenge. This country, and its the public sect
 - Registration link: [GovActionCafe 2026 · Luma](https://luma.com/4k92w6be)
 - Capacity: 25 attendees
 ## What Should I Expect during the Event?
+### The Breakfast and Lunch Menu
+1. Breakfast from [Bridgehead](https://catering.bridgehead.ca/?utm_source=luma)
+	  - ​Coffee (including oat milk, regular milk, cream, and sugar)
+	  - Chocolate Loafs (gluten free)
+	  - ​Banana Chocolate Chip Muffins (gluten free, vegan)
+2. ​Lunch from [Dirienzo](https://www.dirienzodeli.ca/menu/?utm_source=luma)
+	- ​1-2 sandwich tray with an assortment of different sandwiches cut in half. Please note that I am not able to coordinate specific orders **_except_** for dietary or allergies.
+	- ​For dietary or allergies, please reach out to me **asap** with what specifically you want to to order from the menu: [https://www.dirienzodeli.ca/](https://www.dirienzodeli.ca/?utm_source=luma). .
+    - ​Some general info below:
+	    - ​Vegetarian/vegan options are available, but you need to tell me exactly what you want on it.
+	    - They are able to do any of their menu item on a gluten-free bun, _however_, having watched them do it... I cannot guarantee zero cross contamination. Please reach out and tell me what your needs are around this as I can give specific instructions to my mother-in-law who will be picking up the order.
 ### What to Bring
 
 Please come with a strong sense of curiousity, a willingness to learn from others, and your ideas for how the public service could tackle one of the critical challenges we're facing in Canada.
