@@ -27,9 +27,9 @@ export const Latex: QuartzTransformerPlugin<Partial<Options>> = (opts) => {
   return {
     name: "Latex",
     textTransform(_ctx, src) {
-      // Automatically escape naked currency signs so they skip remarkMath
-      return src.toString().replaceAll(/(?<!\\)\$(\d)/g, "\\$$1")
-    },
+  // match is the full string (e.g., "$5"), digit is the captured group (e.g., "5")
+  return src.toString().replaceAll(/(?<!\\)\$(\d)/g, (match, digit) => `\\$${digit}`);
+  },
     markdownPlugins() {
       return [remarkMath]
     },
