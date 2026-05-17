@@ -23,17 +23,17 @@ timeline
 	section After Birth
 		Around January 2026: Celebrating Baby's Full Moon ("Man Yue")		
 ```
-# No Baby Shower or Gifts before Birth
+## No Baby Shower or Gifts before Birth
 
 The big difference from what you may be use to is that we will not be holding a baby shower before the birth. In my culture, it is bad luck to celebrate the baby too early either by holding an event or accepting gifts before the birth.
 
 Instead we will be inviting folks to drop by for an Open House at our place to celebrate the first milestone of the baby's life, **Man Yue**, or Baby's Full Moon.
 
 More details to come when we have confirmed the details.
-# No Baby Registry
+## No Baby Registry
 
 We would prefer to observe the traditions of **Red Envelopes**, for this reason we have not set up a baby registry. A red envelope is not just about money: a red envelope is a way to provide a blessing to baby for their future. The red of the envelope itself represents **energy, protection, and good fortune**. The value inside the envelope also have symbolic meaning. There are some specific guidelines for preparing a red envelope to ensure maximum blessings to the baby, however, we are equally grateful just for your presence in celebrating with us.
-## Guidelines for Preparing a Red Envelope
+### Guidelines for Preparing a Red Envelope
 
 - Use new, crisp bills, if possible, and avoid including coins, in brand new traditional red envelope or **hong bao**
 - Hand it over with both hands
