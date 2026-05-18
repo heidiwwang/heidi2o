@@ -21,7 +21,7 @@ timeline
 	    November 22, 2026 : Approximate due date
 	    
 	section After Birth
-		Around January 2026: Celebrating Baby's Full Moon ("Man Yue")		
+		Around January 2027: Celebrating Baby's Full Moon ("Man Yue")		
 ```
 ### No Baby Shower or Gifts before Birth
 

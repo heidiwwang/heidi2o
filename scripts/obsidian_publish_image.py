@@ -9,7 +9,7 @@ OBSIDIAN_ATTACHMENTS = Path('/home/hide/Documents/heidi2o/02_library/attachments
 QUARTZ_CONTENT = Path('/home/hide/quartz/content')
 QUARTZ_ATTACHMENTS = QUARTZ_CONTENT / "assets"
 
-NOTE_FILENAME = "GovActionCafe_Pre-brief.md"
+NOTE_FILENAME = "baby_guide.md"
 
 def process_content(content):
     # 1. Update YAML title from H1 (Existing Logic)
