@@ -5,7 +5,7 @@ aliases:
   - Gov Action Cafe
   - Save the Date for GovActionCafe 2026
 created: 2026-01-17
-modified: 2026-05-17
+modified: 2026-05-29
 tags: []
 ---
 ## Purpose
@@ -52,9 +52,9 @@ Please feel free to play the role that feels best for you. After the event, all 
 3. Participants will then "vote with their feet" and join a table. To move forward to round 1, the owner must have 2 to 4 contributors at their table (in other words, no more than 5 people at each table).
 4. During the round, participants are welcome to move to another table with less than 5 people. At the beginning of the second and third round, participants will be asked to rotate to a different table to ensure ideas are cross pollinated and owners benefit from as many participants as possible.
 
-### Chatum House Rule
+### Chatham House Rule
 
-To ensure the free exchange of ideas, participants are asked to observe the Chatum House Rule. In other words, participants are welcome to share the _wisdom_ gained, but never the _identity_ or affiliation of the speaker.
+To ensure the free exchange of ideas, participants are asked to observe the Chatham House Rule. In other words, participants are welcome to share the _wisdom_ gained, but never the _identity_ or affiliation of the speaker.
 
 ### Photography & Consent
 
