@@ -12,7 +12,7 @@ tags:
 
 ## Brief Overview while This Page is under Construction
 
-### Aesthetics :sparkles:
+### Aesthetics
 1. Foundational theme: [Welcome \| Primary](https://primary-theme.github.io/start-here/)
 	- Interface and inline font: [Karla](https://fonts.google.com/specimen/Karla?preview.script=Latn)
 	- Monospace font: [VictorMono NF](https://rubjo.github.io/victor-mono/)
