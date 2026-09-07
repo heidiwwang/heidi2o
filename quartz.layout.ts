@@ -39,7 +39,7 @@ export const defaultContentPageLayout: PageLayout = {
   afterBody: [
     Component.ConditionalRender({
       component: Component.RecentNotes({
-        title: "Read my weeknotes",
+        title: "Recent blog posts",
         showTags: false,
         filter: (file) => file.frontmatter?.tags?.includes("journal") == true,
         limit: 3,
