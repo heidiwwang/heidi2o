@@ -7,7 +7,6 @@ created: 2026-09-07
 modified: 2026-09-07
 tags:
   - pregnancy
-  - journal
 ---
 
 
@@ -27,8 +26,11 @@ Despite that... I am still experiencing 1) slightly elevated fasting blood sugar
 Ultimately, it means that 1) I will need to start a very low dose insulin and 2) despite my best intentions of working until 3 weeks before my due date, my last day at work has now been advanced to September 18. It's been a whirlwind since this all was all coinciding with my first semester of my (part-time, online, asynchronous) Master's in Library and Information Studies. *However*, it is incredibly boring to do nothing except pass time until my next meal so doing readings and writings at home is actually a very welcome distraction.
 ## I Really Do Love a Project
 
-So I would say I am experiencing not a lot of anxiety around pregnancy in general, or the development of GDM because unlike all of the other hypothetical things that can go wrong in life, there are pretty specific things can do to occupy my brain. Ooooh this gestational diabetes thing has been such a fun data project. I just get to measure and adjust my meals based on evidence and trends?? I feel truly alive.
+So I would say I am experiencing not a lot of anxiety around pregnancy in general, or the development of GDM because unlike all of the other hypothetical things that can go wrong in life, there are pretty specific things I can do to occupy my brain. This gestational diabetes thing: such a fun data project.
 
+I just get to measure and adjust my meals based on evidence and trends?? I feel truly alive.
+
+## Planning the Meals
 ### Considerations
 - Mild hypothyroidism. Synthroid has to be taken on an empty stomach and not with coffee, calcium, high-fibre foods, walnuts and high fibre nuts, or soy products.
 - The baby has also taken all my irons. Iron supplement are the most annoying because it can't be eaten with most of the things they want you to eat, specifically calcium, and it should be combined with vitamin C. So it has to be isolated from other snacks and meals by 1.5-2 hours.
@@ -38,7 +40,7 @@ So I would say I am experiencing not a lot of anxiety around pregnancy in genera
 - Generally, but not strictly, vegetarian. Mostly I don't like handling raw meat, worried about food poisioning, it's gross if not well seasoned (high sodium and sugar), and it takes longer than I am willing to spend on cooking and measuring.
 - Minimizing food waste (hence a lot of frozen fruits/veg).
 
-### The Meal Plan and Schedule
+### The Schedule
 
 Below you will see the very intense schedule I am now on to ensure this baby does not eat me. This being something that as of last week was still actively happening... I am now back at pre-pregnancy weight and my urine ketones still showing that I not eating enough to prevent my fat storage from being converted into glucose to feed the baby.
 
