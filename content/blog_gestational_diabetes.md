@@ -6,6 +6,7 @@ aliases:
 created: 2026-09-07
 modified: 2026-09-07
 tags:
+  - journal
   - pregnancy
 ---
 
