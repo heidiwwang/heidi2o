@@ -115,4 +115,3 @@ To the following formatted PDF:
 ### Issues to Resolve
 
 1. I couldn't get the Pandoc Plugin for Obsidian to work for the export so I did it in the command line. It would be nice to click a button using a UI sometimes...
-2. The Reference page is suppose to have a page break instead of being appended directly. To be resolved before first submission deadline on September 25, 2026.
