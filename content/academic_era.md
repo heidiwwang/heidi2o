@@ -4,13 +4,14 @@ title: "In My Academic Era
 aliases:
   - In My Academic Era
 created: 2026-09-05
-modified: 2026-09-05
+modified: 2026-09-12
 tags:
   - obsidian
-  - publish
   - zotero
 ---
 
+
+On this page you will find the supporting documentation for the various files in my `academicera` Github repo.
 
 All files can be found in this Github Repo: [GitHub - heidiwwang/academicera: Various templates and scripts to support me in my academic era · GitHub](https://github.com/heidiwwang/academicera)
 
@@ -22,10 +23,12 @@ The instructions below assume the the reader has a baseline knowledge of how to 
 ## Managing Readings and Citations
 
 ### Required Software
-1. [Zotero](https://www.zotero.org/) (free, open source)
+1. [Zotero](https://www.zotero.org/) (free, open source reference manager)
 	- plug-in: [Better BibTex for Zotero](https://retorque.re/zotero-better-bibtex/installation/)
-2. [Obsidian.md](http://Obsidian.md) (free, open format)
-	- plug-ins: [Zotero Integration - Obsidian Plugin](https://community.obsidian.md/plugins/obsidian-zotero-desktop-connector), [Templater - Obsidian Plugin](https://community.obsidian.md/plugins/templater-obsidian), [Dataview - Obsidian Plugin](https://community.obsidian.md/plugins/dataview)
+2. [Obsidian.md](http://Obsidian.md) (free, local-first markdown workspace), plugins
+	- [Zotero Integration - Obsidian Plugin](https://community.obsidian.md/plugins/obsidian-zotero-desktop-connector)
+	- [Templater - Obsidian Plugin](https://community.obsidian.md/plugins/templater-obsidian)
+	- [Dataview - Obsidian Plugin](https://community.obsidian.md/plugins/dataview)
 
 I am using a fairly customized version of Obsidian that is integrated to Zotero for citation/annotation management. I have summarized the purpose of the tools below ​
 
@@ -70,3 +73,46 @@ I am using a fairly customized version of Obsidian that is integrated to Zotero
   <figcaption>Screenshot of Obsidian showing a concept page, DataviewJS output and the connected graph on the top right hand side</figcaption>
 </figure>
 
+## Exporting Markdown Files to Meet Assignment Formatting Requirement
+### Required Software
+1. [Obsidian.md](http://Obsidian.md) (free, local-first markdown workspace), plugins:
+	- [Zotero Integration - Obsidian Plugin](https://community.obsidian.md/plugins/obsidian-zotero-desktop-connector)
+	- [Templater - Obsidian Plugin](https://community.obsidian.md/plugins/templater-obsidian)
+	- [Pandoc Plugin - Obsidian Plugin](https://community.obsidian.md/plugins/obsidian-pandoc) (optional, recommended if you don't want to do things via command line)
+2. [Zotero](https://www.zotero.org/) (free, open source reference manager)
+	- plug-in: [Better BibTex for Zotero](https://retorque.re/zotero-better-bibtex/installation/)
+	- exports and synchronizes bibliography as `.bib` from collections, generates clean citekeys (e.g., `smith2024`), and cleans up metadata for Pandoc compatibility
+3. [Pandoc](https://pandoc.org/) (free, open-source document converter)
+	- converts markdown documents into PDF or DOCX using CSL style files.
+	- resolves references from .bib files produced by Zotero using `--citeproc` function (automatically adds a reference section to the export file)
+
+4. [XeLaTeX - Overleaf, Online LaTeX Editor](https://www.overleaf.com/learn/latex/XeLaTeX) (free, open-source TeX typesetting distribution)
+	- PDF rendering engine used by Pandoc to support implementing all formatting settings like setting font to Times New Roman, page margins, headers, and double-spacing.
+
+As I was reviewing the assignment requirements, I realized that unlike last time I was in school, the instructions assume you will be manually formatting using MS Word. Since I am now running Linux and I do all my writing in Markdown, I've been doing a lazy workaround of sticking things into Google Docs, downloading it then uploading it. That got tiresome quickly.  So in order to meet the formatting requirements, I needed to invest some time in setting up the template allow me to typeset automatically by configuring properties.
+
+Using this assignment template for the YAML (properties): [academicera/template\_assignment.md at main · heidiwwang/academicera · GitHub](https://github.com/heidiwwang/academicera/blob/main/template_assignment.md), the assignment is then written in markdown/plaintext before running the necessary commands below to create an automa-gically formatted document.
+
+Run the following command in your console or apparently you can use the pandoc Obsidian plug-in to export as PDF (more on this in  [[academic_era#Issues to Resolve]]):
+
+```
+panpdf /path/to/md/test_assignment.md -o /path/to/output.pdf
+```
+
+Based on the specifications in the YAML, combined with the Zotero .bib file, this will turn the markdown file from:
+<figure>
+  <img src="/assets/Pasted image 20260912181024.png" alt="Screenshot of a markdown file with sample text">
+  <figcaption>Screenshot of a markdown file with sample text</figcaption>
+</figure>
+
+To the following formatted PDF:
+
+<figure>
+  <img src="/assets/Pasted image 20260912181207.png" alt="A screen shot of PDF output formatted with 12px Times New Roman Font, headings formatted, references resolved and appended">
+  <figcaption>A screen shot of PDF output formatted with 12px Times New Roman Font, headings formatted, references resolved and appended</figcaption>
+</figure>
+
+### Issues to Resolve
+
+1. I couldn't get the Pandoc Plugin for Obsidian to work for the export so I did it in the command line. It would be nice to click a button using a UI sometimes...
+2. The Reference page is suppose to have a page break instead of being appended directly. To be resolved before first submission deadline on September 25, 2026.

@@ -9,7 +9,7 @@ OBSIDIAN_ATTACHMENTS = Path("/home/hide/Documents/bioluminescence/05_reference/"
 QUARTZ_CONTENT = Path("/home/hide/quartz/content")
 QUARTZ_ATTACHMENTS = QUARTZ_CONTENT / "assets"
 
-NOTE_FILENAME = "blog_gestational_diabetes.md"
+NOTE_FILENAME = "academic_era.md"
 
 
 def process_content(content):
