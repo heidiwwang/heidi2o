@@ -91,7 +91,9 @@ I am using a fairly customized version of Obsidian that is integrated to Zotero
 
 As I was reviewing the assignment requirements, I realized that unlike last time I was in school, the instructions assume you will be manually formatting using MS Word. Since I am now running Linux and I do all my writing in Markdown, I've been doing a lazy workaround of sticking things into Google Docs, downloading it then uploading it. That got tiresome quickly.  So in order to meet the formatting requirements, I needed to invest some time in setting up the template allow me to typeset automatically by configuring properties.
 
-Using this assignment template for the YAML (properties): [academicera/template\_assignment.md at main · heidiwwang/academicera · GitHub](https://github.com/heidiwwang/academicera/blob/main/template_assignment.md), the assignment is then written in markdown/plaintext before running the necessary commands below to create an automa-gically formatted document.
+Using this assignment template to create your file: [academicera/template\_assignment.md at main · heidiwwang/academicera · GitHub](https://github.com/heidiwwang/academicera/blob/main/template_assignment.md), the assignment is then written in markdown/plaintext before running the necessary commands below to create an automa-gically formatted document.
+
+Before exporting, [academicera/config\_apa at main · heidiwwang/academicera · GitHub](https://github.com/heidiwwang/academicera/blob/main/config_apa) use this configuration file to add the details that will go on your title page (course name, instructor name, etc) as well as the location of your bibliography file and your citation format (I am using APA 7th edition). Make sure this  config file is saved somewhere in your vault.
 
 Run the following command in your console or apparently you can use the pandoc Obsidian plug-in to export as PDF (more on this in  [[academic_era#Issues to Resolve]]):
 
@@ -105,7 +107,7 @@ Based on the specifications in the YAML, combined with the Zotero .bib file, thi
   <figcaption>Screenshot of a markdown file with sample text</figcaption>
 </figure>
 
-To the following formatted PDF:
+To the a formatted PDF (note that this screenshot is from an earlier version before the configuration file was added in other words, before I fixed the title page and reference page issues):
 
 <figure>
   <img src="/assets/Pasted image 20260912181207.png" alt="A screen shot of PDF output formatted with 12px Times New Roman Font, headings formatted, references resolved and appended">
