@@ -20,7 +20,7 @@ timeline
 	    November 22, 2026 : Approximate due date
 	    
 	section After Birth
-		Around January 2027: Celebrating Baby's Full Moon ("Man Yue")		
+		Saturday, February 6, 2027: Celebrating Baby's Full Moon ("Man Yue") & Chinese New Year	
 		Around November 2027: Baby's First Birth Day ("Zhuazhou")
 ```
 ### No Baby Shower or Gifts before Birth
