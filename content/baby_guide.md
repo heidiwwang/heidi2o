@@ -27,7 +27,7 @@ timeline
 
 The big difference from what you may be use to is that we will not be holding a baby shower before the birth. In my culture, it is bad luck to celebrate the baby too early either by holding an event or accepting gifts before the birth.
 
-Instead we will be inviting folks to drop by for an Open House at our place to celebrate the first milestone of the baby's life, **Man Yue**, or Baby's Full Moon.
+Instead we will be inviting folks to drop by for an Open House at our place to celebrate the first milestone of the baby's life, **Man Yue**, or Baby's Full Moon. Since the first month is likely to coincide with the Christmas season, we will have decided to combine it with a Chinese/Lunar New Year celebration. Please save the date for **Saturday, February 6, 2027**. 
 
 More details to come when we have confirmed the details.
 
