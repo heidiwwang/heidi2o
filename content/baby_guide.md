@@ -48,3 +48,33 @@ We would prefer to observe the traditions of **Red Envelopes**, for this reason 
 | $60            | $50 bill + $10 bill <br>                          | The $50 bill is red, which makes it more auspicious, but the $10 makes the total contain the number 6, means "going smoothly."             |
 | $80            | $50 bill + $20 bill + $10 bill<br>                | While 4 x $20 can reach $80, it requires 4 bills which is unlucky. Number 8 represents luck and wealth. $50 bill is red, which is lucky.   |
 | $160           | 3 x $50 + 1 x $10<br>1 x $100 + 1 x $50 + 1 x $10 | $50 bill is red. $100 is gold. Both are lucky colours. This total with the number 6 means "May everything in the baby's life go smoothly." |
+
+## Hospital and Post-Partum Visits
+
+Heidi has not had carbs in 3 months, please be prepared to pay one of the following tolls to hold or behold the baby:
+
+1. Craig's Cookies Surprise Mix or the most interesting flavours you see
+
+2. Yang chow fried rice
+
+3.  Kimchi Fried Rice
+
+4. Xing Fu Tang - Large Taro Milk Tea, 30% sugar, add brown sugar tapioca pearls, grass jelly, and pudding
+
+5. Dominoes Pizza - new york style, brooklyn pepperoni, pineapple, italian seasoning; with garlic dipping sauce OR donair sweet sauce 
+
+6. Pizza Nerds Donair Pizza and chocolate chip cookie
+
+7. T&T Bakery Taro Cake (6 Inch) - the sweet round dessert cake, not the square dimsum stuff
+
+8. Sammi and Soup dumplings - juicy pork soup dumplings, pan fried beef and curry
+
+9. Black dragon roll and sweet potato & avocado roll
+
+10. Kimchi Fried Rice
+
+11. Chicken pad thai
+
+12. Chicken Pad See Ew
+   
+13. Butter chicken, aloo gobi, garlic naan, and onion bhaji 
