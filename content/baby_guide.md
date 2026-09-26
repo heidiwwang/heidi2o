@@ -49,6 +49,15 @@ We would prefer to observe the traditions of **Red Envelopes**, for this reason 
 | $80            | $50 bill + $20 bill + $10 bill<br>                | While 4 x $20 can reach $80, it requires 4 bills which is unlucky. Number 8 represents luck and wealth. $50 bill is red, which is lucky.   |
 | $160           | 3 x $50 + 1 x $10<br>1 x $100 + 1 x $50 + 1 x $10 | $50 bill is red. $100 is gold. Both are lucky colours. This total with the number 6 means "May everything in the baby's life go smoothly." |
 
+### Handmades & hand-me-downs 
+
+It is considered lucky to receive hand-me-down baby clothing from *known* sources, particularly if the baby or babies who wore them has a good disposition or traits that we want to encourage in our baby. However, thrift store clothing or other baby clothing from unknown origins may carry negative energy (*qi*) from previous owners. It is also a protective talisman to have clothes made from reclaimed fabric from various family and friends, offering the combined strength of all the different people to the baby. Learn more about traditional "One hundred families clothing" or [Baijiayi](https://en.wikipedia.org/wiki/Baijiayi) as potential inspiration for patch work style hand mades. I think knitted projects using leftover yarn and scraps would fit this same spirit. 
+
+We do not want any clothing containing synthetic contents (such as polyester or polyster blends).
+
+Please be aware of any safety considerations if you are making any baby clothes, accessories, or toys. For example, safety eyes are not safe, buttons are easily pulled and eaten/choked on, etc. 
+
+
 ## Hospital and Post-Partum Visits
 
 Heidi has not had carbs in 3 months, please be prepared to pay one of the following tolls to hold or behold the baby:
