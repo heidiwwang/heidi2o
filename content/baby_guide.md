@@ -8,6 +8,7 @@ tags: []
 ---
 
 We are so lucky to be surrounded by lovely friends and family who are looking for a chance to celebrate with us. For this reason, we wanted to put together some information since folks may not be familiar with all of the traditions and customs around the birth of babies which I grew up with in Taiwan.
+
 ## Timeline
 
 ```mermaid
@@ -23,6 +24,7 @@ timeline
 		Saturday, February 6, 2027: Celebrating Baby's Full Moon ("Man Yue") & Chinese New Year	
 		Around November 2027: Baby's First Birth Day ("Zhuazhou")
 ```
+
 ### No Baby Shower or Gifts before Birth
 
 The big difference from what you may be use to is that we will not be holding a baby shower before the birth. In my culture, it is bad luck to celebrate the baby too early either by holding an event or accepting gifts before the birth.
@@ -60,13 +62,27 @@ Please be aware of any safety considerations if you are making any baby clothes,
 
 ## Hospital and Post-Partum Visits
 
+Because Heidi and the baby be confined to our apartment for 30 days postpartum, to ensure our enrichment by seeing other humans, we are generally happy to receive visitors. Below are just a few things to keep in before planning a visit.
+
+### Health Safety During Visits
+
+As with all newborns, the baby will not be able to get a bunch of their vaccines until four months, so if you have any significant or regular exposure to illnesses, and/or are having symptoms of illness, we would prefer to defer and/or arrange an outdoor distanced visit once we are able to go outside again.
+
+Please ensure you are up to date for all routine vaccines before your visit, this includes the annual flu and COVID-19 boosters. Note that some routine childhood vaccines like Tdap (Tetanus, diphtheria, & pertussis) may need to be boosted every 10 years. Tdap is particularly critical as recent cases of pertussis have had very serious health outcomes for babies and newborns. Considering consulting your doctor to verify your immunization status if you are unsure.
+
+### Photography
+
+We prefer that only Zander and I take and own photos of the baby. When you are visiting, we have a point and shoot camera that can be used to take photos if you would like to capture and share your prespective. We will regularly share photos through a private link to a photo album as well as ordering physical prints a few times a year. 
+
+### Baby Viewing Toll
+
 Heidi has not had carbs in 3 months, please be prepared to pay one of the following tolls to hold or behold the baby:
 
 1. Craig's Cookies Surprise Mix or the most interesting flavours you see
 
 2. Yang chow fried rice
 
-3.  Kimchi Fried Rice
+3.  Kimchi fried rice
 
 4. Xing Fu Tang - Large Taro Milk Tea, 30% sugar, add brown sugar tapioca pearls, grass jelly, and pudding
 
@@ -87,3 +103,5 @@ Heidi has not had carbs in 3 months, please be prepared to pay one of the follow
 12. Chicken Pad See Ew
    
 13. Butter chicken, aloo gobi, garlic naan, and onion bhaji 
+
+14. Your choice of comfort food as long as it is not sugar-free or full of seeds
