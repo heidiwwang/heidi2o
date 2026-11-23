@@ -4,7 +4,7 @@ aliases:
   - Baby Countdown
 created: 2026-03-22
 modified: 2026-05-17
-tags: []
+tags: motherhood
 ---
 
 We are so lucky to be surrounded by lovely friends and family who are looking for a chance to celebrate with us. For this reason, we wanted to put together some information since folks may not be familiar with all of the traditions and customs around the birth of babies which I grew up with in Taiwan.
